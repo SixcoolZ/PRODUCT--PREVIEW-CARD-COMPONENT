@@ -10,6 +10,9 @@
 body{
     background: hsl(30, 38%, 92%);
 }
+h1{
+    display: none;
+}
 .card{
     display: flex;
     box-shadow: 0 15px 30px 1px hsl(30, 38%, 92%);
